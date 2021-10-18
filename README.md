@@ -1,2 +1,7 @@
-# great-frontend-learning-resources
-Great Frontend Learning Resorces
+# **Great Frontend Learning Resorces**
+
+This is a collection of links and resources I link people to while mentoring them. Hopefully this list helps other people too.
+
+- [CSS](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CSS.md)
+- [CleanCode](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CleanCode.md)
+- [CodeEditor](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CodeEditor.md)
