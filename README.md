@@ -2,6 +2,7 @@
 
 This is a collection of links and resources I link people to while mentoring them. Hopefully this list helps others too.
 
+- [General](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/General.md)
 - [CSS](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CSS.md)
 - [CleanCode](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CleanCode.md)
 - [CodeEditor](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CodeEditor.md)
