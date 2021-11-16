@@ -8,4 +8,5 @@ This is a collection of links and resources I link people to while mentoring the
 - [CodeEditor](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/CodeEditor.md)
 - [TypeScript](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/TypeScript.md)
 - [JavaScript](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/JavaScript.md)
+- [React](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/React.md)
 - [OOP](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/OOP.md)
