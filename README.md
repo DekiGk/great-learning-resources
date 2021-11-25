@@ -1,4 +1,4 @@
-# **Great Frontend Learning Resorces**
+# **Great Learning Resorces**
 
 This is a collection of links and resources I link people to while mentoring them. Hopefully this list helps others too.
 
