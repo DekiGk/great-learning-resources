@@ -1,3 +1,6 @@
+## **CSS Reset**
+- [My Custom CSS Reset by Josh W. Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
+
 ## **Flexbox**
 - [FlexBox.io by Wes Bos](https://flexbox.io/)
 
