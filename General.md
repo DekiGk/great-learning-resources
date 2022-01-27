@@ -11,3 +11,6 @@
 - [Google Trends by Google](https://trends.google.com/trends)
 - [Exploding Topics](https://explodingtopics.com/)
 - [Answer The Public](https://answerthepublic.com/)
+
+## **Code Reviews**
+- [Google Engineering Practices Documentation by Google](https://google.github.io/eng-practices/)
