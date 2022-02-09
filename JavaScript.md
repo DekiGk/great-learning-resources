@@ -9,3 +9,6 @@
 
 ## **Equality**
 - [JavaScript Equality Table by dorey](https://dorey.github.io/JavaScript-Equality-Table/unified/)
+
+## **Debugging**
+- [Debugging JavaScript by Flavio Copes](https://flaviocopes.com/debugging/)
