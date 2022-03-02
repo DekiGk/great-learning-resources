@@ -14,3 +14,6 @@
 
 ## **Code Reviews**
 - [Google Engineering Practices Documentation by Google](https://google.github.io/eng-practices/)
+
+## **Onboarding**
+- [How to Onboard Engineers by Luca Rossi](https://refactoring.fm/p/onboarding-engineers?s=r)
