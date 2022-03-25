@@ -14,3 +14,4 @@ This is a collection of links and resources I link people to while mentoring the
 - [Testing](https://github.com/DekiGk/great-frontend-learning-resources/blob/main/Testing.md)
 - [GraphQL](https://github.com/DekiGk/great-learning-resources/blob/main/GraphQL.md)
 - [Databases](https://github.com/DekiGk/great-learning-resources/blob/main/Databases.md)
+- [Git](https://github.com/DekiGk/great-learning-resources/blob/main/Git.md)
