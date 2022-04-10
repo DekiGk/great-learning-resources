@@ -10,5 +10,9 @@
 ## **Equality**
 - [JavaScript Equality Table by dorey](https://dorey.github.io/JavaScript-Equality-Table/unified/)
 
+## **This, Bind, Call, and Apply**
+- [Understanding This, Bind, Call, and Apply in JavaScript by Tania Rascia](https://www.taniarascia.com/this-bind-call-apply-javascript)
+- [Javascript: call(), apply() and bind() by Omer Goldberg](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+
 ## **Debugging**
 - [Debugging JavaScript by Flavio Copes](https://flaviocopes.com/debugging/)
