@@ -9,3 +9,7 @@
 
 ## **CSS Variables (custom properties)**
 - [Using CSS custom properties by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
+## **Animations**
+- [Treasure Trove Cubic Bezier by Josh W. Comeau](https://courses.joshwcomeau.com/css-for-js/treasure-trove/011-cubic-bezier)
+- [Cubic Bezier by Lea Verou](https://cubic-bezier.com/)
