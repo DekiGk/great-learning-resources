@@ -22,3 +22,6 @@
 
 ## **Debugging**
 - [Debugging JavaScript by Flavio Copes](https://flaviocopes.com/debugging/)
+
+## **Exercsises**
+- [JavaScript - Learn with Katas by Wolfram Kriesing](https://jskatas.org/katas/)
