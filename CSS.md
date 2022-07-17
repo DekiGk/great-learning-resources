@@ -15,6 +15,15 @@
 - [Cubic Bezier by Lea Verou](https://cubic-bezier.com/)
 
 ## **Forms**
+
 ### **`<form>` and form elements**
 - [`<form>`: The Form element by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [HTML Form Elements by W3C schools](https://www.w3schools.com/html/html_form_elements.asp)
+
+### **Styling the form and the elements**
+- [CSS Forms by W3C schools](https://www.w3schools.com/css/css_form.asp)
+- [Styling web forms by MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms)
+
+### **Submitting the form**
+- [Sending form data by MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+- [How to use fetch to POST form data as JSON to your API by Simon Plenderleith](https://simonplend.com/how-to-use-fetch-to-post-form-data-as-json-to-your-api/)
