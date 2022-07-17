@@ -42,3 +42,13 @@
 
 ### **Lists and styling**
 - [HTML Lists by W3C schools](https://www.w3schools.com/html/html_lists.asp)
+- [Styling lists by MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+- [List Style Recipes by Chris Coyier](https://css-tricks.com/list-style-recipes/)
+
+## **Working with colors, gradients**
+
+### **Colours**
+- [CSS Colors by W3C schools](https://www.w3schools.com/css/css_colors.asp)
+- [CSS Legal Color Values by W3C schools](https://www.w3schools.com/cssref/css_colors_legal.asp)
+- [CSS background-color Property by W3C schools](https://www.w3schools.com/cssref/pr_background-color.asp)
+- [background-color by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
