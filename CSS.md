@@ -52,3 +52,9 @@
 - [CSS Legal Color Values by W3C schools](https://www.w3schools.com/cssref/css_colors_legal.asp)
 - [CSS background-color Property by W3C schools](https://www.w3schools.com/cssref/pr_background-color.asp)
 - [background-color by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+- Colour palette generators:
+  - [Coolors](https://coolors.co/)
+  - [Muzli Colors](https://colors.muz.li/)
+  - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+  - [Colormind](http://colormind.io/)
+
