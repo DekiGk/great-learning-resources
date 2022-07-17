@@ -58,3 +58,58 @@
   - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
   - [Colormind](http://colormind.io/)
 
+### **Gradients**
+- [CSS Gradients by W3C schools](https://www.w3schools.com/css/css3_gradients.asp)
+- [CSS Radial Gradients by W3C schools](https://www.w3schools.com/css/css3_gradients_radial.asp)
+- [CSS Conic Gradients by W3C schools](https://www.w3schools.com/css/css3_gradients_conic.asp)
+- [`<gradient>` by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
+- [Using CSS gradients by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients)
+- [Easing Linear Gradients by Andreas Larsen](https://css-tricks.com/easing-linear-gradients/)
+- Gradient generators:
+  - [Gradient Generator powered by Learn UI Design](https://www.learnui.design/tools/gradient-generator.html)
+  - [CSS Gradient](https://cssgradient.io/)
+  - [Colorzilla](https://www.colorzilla.com/gradient-editor/)
+  - [CSS Gradient Generator by Josh W. Comeau](https://www.joshwcomeau.com/gradient-generator/)
+
+## **Box model, padding, border, margin**
+
+### **Box model**
+- [The CSS Box Model by Chris Coyier](https://css-tricks.com/the-css-box-model/)
+- [Box Sizing by Marie Mosley](https://css-tricks.com/box-sizing/)
+- [The box model; section Parts of a box by MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#parts_of_a_box)
+
+### **Padding**
+- [padding by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+
+### **Border**
+- [CSS Borders by W3C schools](https://www.w3schools.com/css/css_border.asp)
+- [border by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+- [border-radius by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
+- [border-radius.com](https://border-radius.com/)
+
+### **Margin**
+- [CSS Margins by W3C schools](https://www.w3schools.com/css/css_margin.asp)
+- [margin by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+- [The Rules of Margin Collapse by Josh W. Comeau](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [Mastering margin collapsing by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+
+## **Fonts, px vs em, rem**
+
+### **Fonts**
+- [CSS Fonts by W3C schools](https://www.w3schools.com/css/css_font.asp)
+- [font by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+- [font-family by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+- [font-style by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+- [font-weight by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+- [text-decoration by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+- [text-align by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
+- [text-transform by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+- [font-size by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+- [line-height by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+
+### **Units**
+- [CSS Units by W3C schools](https://www.w3schools.com/cssref/css_units.asp)
+- [CSS Units Explained by Jess Mitchell](https://www.digitalocean.com/community/tutorials/css-css-units-explained)
+- [CSS Units Best Practices gist by Chris Basham](https://gist.github.com/basham/2175a16ab7c60ce8e001)
+
+
