@@ -15,6 +15,6 @@
 - [Cubic Bezier by Lea Verou](https://cubic-bezier.com/)
 
 ## **Forms**
-### **<form> and form elements**
-- [<form>: The Form element by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+### **`<form>` and form elements**
+- [`<form>`: The Form element by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [HTML Form Elements by W3C schools](https://www.w3schools.com/html/html_form_elements.asp)
