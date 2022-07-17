@@ -112,4 +112,6 @@
 - [CSS Units Explained by Jess Mitchell](https://www.digitalocean.com/community/tutorials/css-css-units-explained)
 - [CSS Units Best Practices gist by Chris Basham](https://gist.github.com/basham/2175a16ab7c60ce8e001)
 
-
+## **Images**
+- [CSS Styling Images by W3C schools](https://www.w3schools.com/css/css_image_transparency.asp)
+- [CSS Opacity / Transparency by W3C schools](https://www.w3schools.com/css/css_image_transparency.asp)
