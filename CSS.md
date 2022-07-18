@@ -1,5 +1,8 @@
 ## **CSS Reset**
 - [My Custom CSS Reset by Josh W. Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [What Is A CSS Reset? by cssdeck.com](https://cssdeck.com/blog/what-is-a-css-reset/)
+- [CSS reset - What exactly does it do? StackOverflow answer by Ashwin Singh](https://stackoverflow.com/a/11579120)
+- [Reset style sheet by Wikipedia](https://en.wikipedia.org/wiki/Reset_style_sheet)
 
 ## **Flexbox**
 - [FlexBox.io by Wes Bos](https://flexbox.io/)
