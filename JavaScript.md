@@ -6,6 +6,9 @@
 
 ## **Events**
 - [Your Ultimate Guide to Understanding DOM Events by Alex Reardon](https://egghead.io/courses/your-ultimate-guide-to-understanding-dom-events-6c0c0d23)
+- [JavaScript HTML DOM EventListener by W3C schools](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+- [Event reference by MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [How to Use Event Listeners in JavaScript by Kadeisha Kean](https://www.makeuseof.com/javascript-event-listeners-how-to-use/)
 
 ## **Equality**
 - [JavaScript Equality Table by dorey](https://dorey.github.io/JavaScript-Equality-Table/unified/)
@@ -27,5 +30,34 @@
 - [Handling API request race conditions in React by Sébastien Lorber](https://sebastienlorber.com/handling-api-request-race-conditions-in-react)
 - [Race conditions in React and beyond. A race condition guard with TypeScript by Marcin Wanago](https://wanago.io/2020/03/02/race-conditions-in-react-and-beyond-a-race-condition-guard-with-typescript/)
 
-## **Exercsises**
+## **Small projects**
+- [How TO - Mobile Navigation Menu by W3C schools](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
+- [How TO - Responsive Top Navigation by W3C schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+
+## **Coding practises**
 - [JavaScript - Learn with Katas by Wolfram Kriesing](https://jskatas.org/katas/)
+- [CodeWars - Achieve Mastery Through Challenge](https://www.codewars.com/)
+
+## **DOM**
+- [Introduction to the DOM by MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [What is the Document Object Model? by W3C](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)
+- [JavaScript HTML DOM by W3C schools](https://www.w3schools.com/js/js_htmldom.asp)
+- [Document Object Model (DOM) by MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+## **Window, document, global**
+- [Global object by MDN](https://developer.mozilla.org/en-US/docs/Glossary/Global_object)
+- [window.document object for browser. by Krishankant Singhal](https://krishankantsinghal.medium.com/window-document-object-for-browser-ac15902be531)
+- [JavaScript Window - The Browser Object Model by W3C schools](https://www.w3schools.com/js/js_window.asp)
+- [JavaScript HTML DOM Document by W3C schools](https://www.w3schools.com/js/js_htmldom_document.asp)
+- [Document by MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+
+## **Built in functionality of JS**
+- [Built-in Functions and Objects by hepunx.rl.ac.uk](https://hepunx.rl.ac.uk/~adye/jsspec11/builtin.htm)
+- [Built-in Methods in Javascript 🤓 by Pepe Benitez](https://dev.to/elpepebenitez/built-in-methods-in-javascript-4bll)
+- [Standard built-in objects by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+- [JavaScript Built-in Functions by tutorialspoint.com](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
+
+## **Selectors**
+- [Locating DOM elements using selectors by MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
+- [Learn How to Use DOM Selectors by Kadeisha Kean](https://www.makeuseof.com/dom-selectors-how-to-use/)
+- [DOM Selectors in JavaScript by Christopher Ninman](https://dev.to/alternate_robot/dom-selectors-in-javascript-344i)
