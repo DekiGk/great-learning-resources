@@ -126,3 +126,10 @@
 ## **Images**
 - [CSS Styling Images by W3C schools](https://www.w3schools.com/css/css_image_transparency.asp)
 - [CSS Opacity / Transparency by W3C schools](https://www.w3schools.com/css/css_image_transparency.asp)
+
+## **Position and display**
+- [Layout mode by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode)
+- [Understanding Layout Algorithms by Josh W. Comeau](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [CSS Layout - The position Property bt W3C schools](https://www.w3schools.com/css/css_positioning.asp)
+- [The stacking context by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
+- [What The Heck, z-index?? by Josh W. Comeau](https://www.joshwcomeau.com/css/stacking-contexts/)
