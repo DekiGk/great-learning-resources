@@ -61,3 +61,38 @@
 - [Locating DOM elements using selectors by MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
 - [Learn How to Use DOM Selectors by Kadeisha Kean](https://www.makeuseof.com/dom-selectors-how-to-use/)
 - [DOM Selectors in JavaScript by Christopher Ninman](https://dev.to/alternate_robot/dom-selectors-in-javascript-344i)
+
+## **JS learning path**
+- History of JS
+- ECMA Script
+- Variables
+- Data types
+- Functions
+- Objects
+- Conditionals
+- Loops
+- Equality
+- DOM
+- Selectors
+- Event listeners
+- Built in JS functionality
+- Window, document, global
+- Call stack
+- Closures and scopes
+- Hoisting
+- The "this" keyword
+- Arrow functions
+- IIFE
+- Strict mode
+- Prototyping
+- Classes
+- Try/catch error handling
+- Debugging
+- Modules
+- Local storage, cookies
+- Date and time in JS
+- Blocking vs non blocking JS, ASYNC
+- Modern JS syntax (spread, map, sort, destructuring, async/await, etc.)
+- JSON
+- Node.js and NPM
+- AJAX
