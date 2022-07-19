@@ -130,3 +130,23 @@
 - [CSS Layout - The position Property bt W3C schools](https://www.w3schools.com/css/css_positioning.asp)
 - [The stacking context by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 - [What The Heck, z-index?? by Josh W. Comeau](https://www.joshwcomeau.com/css/stacking-contexts/)
+
+## **CSS learning path**
+- Introduction
+- Selectors
+- Specificity
+- Naming conventions
+- CSS custom properties
+- CSS reset
+- Global CSS
+- Position and display
+- Box model; padding, border, margin
+- Fonts, px vs em, rem
+- Colors and gradients
+- Table and lists
+- Forms
+- Flex
+- Grid
+- Responsive design
+- CSS preprocessors (LESS, SASS)
+- Bootstrap and other frameworks
