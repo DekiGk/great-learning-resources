@@ -9,9 +9,6 @@
 - [Global and local styling by Heydon Pickering & Andy Bell](https://every-layout.dev/rudiments/global-and-local-styling/)
 - [Should modern websites have a global CSS, or just the individual scoped (hopefully) components styles? discussion on Quora](https://www.quora.com/Should-modern-websites-have-a-global-CSS-or-just-the-individual-scoped-hopefully-components-styles)
 
-[image](https://user-images.githubusercontent.com/3287362/179600289-2b5e40f3-a5da-4ac9-9f55-c3ed32b90612.png)
-
-
 ## **Flexbox**
 - [FlexBox.io by Wes Bos](https://flexbox.io/)
 
