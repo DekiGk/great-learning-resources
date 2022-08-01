@@ -15,3 +15,4 @@ This is a collection of links and resources I link people to while mentoring the
 - [GraphQL](https://github.com/DekiGk/great-learning-resources/blob/main/GraphQL.md)
 - [Databases](https://github.com/DekiGk/great-learning-resources/blob/main/Databases.md)
 - [Git](https://github.com/DekiGk/great-learning-resources/blob/main/Git.md)
+- [Linux](https://github.com/DekiGk/great-learning-resources/blob/main/Linux.md)
