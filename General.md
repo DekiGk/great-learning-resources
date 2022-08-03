@@ -4,6 +4,10 @@
 - [24 tips for beginner programmers by Flavio Copes](https://flaviocopes.com/tips-beginner-programmers/)
 - [The valley of Code by Flavio Copes](https://thevalleyofcode.com/)
 
+## **Problem solving**
+
+- [Tools for better thinking by untools](https://untools.co/)
+
 ## **Becoming a Frontend Developer**
 - [Front-end Developer Handbook 2019 Written by Cody Lindley on Frontend Masters](https://frontendmasters.com/guides/front-end-handbook/2019/)
 
