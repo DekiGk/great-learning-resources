@@ -9,6 +9,9 @@
 - [Global and local styling by Heydon Pickering & Andy Bell](https://every-layout.dev/rudiments/global-and-local-styling/)
 - [Should modern websites have a global CSS, or just the individual scoped (hopefully) components styles? discussion on Quora](https://www.quora.com/Should-modern-websites-have-a-global-CSS-or-just-the-individual-scoped-hopefully-components-styles)
 
+## **CSS Variables**
+- [Learn CSS variables for free by Per Harald Borgen](https://scrimba.com/learn/cssvariables)
+
 ## **Flexbox**
 - [FlexBox.io by Wes Bos](https://flexbox.io/)
 
