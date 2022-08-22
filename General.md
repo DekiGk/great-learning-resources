@@ -13,6 +13,7 @@
 
 ## **Terminal**
 - [The Front-End Developer's Guide to the Terminal by Josh W. Comeau](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
+- [3 Types of Projects That Will Make You a Programmer by Andy Sterkowitz](https://www.youtube.com/watch?v=RYE0QQKJI9o)
 
 ## **SEO**
 - [SEO Fundamentals for Web Designers by TutsPlus](https://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715)
