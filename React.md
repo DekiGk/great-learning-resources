@@ -4,7 +4,7 @@
 ### **Hooks**
 - [React Crash Course with Hooks by Chris Achard](https://egghead.io/courses/react-crash-course-with-hooks-ca06)
 
-### **Optimization
+### **Optimization**
 - [React Optimization Cookbook by Tyler Clark](https://egghead.io/courses/react-optimization-cookbook-d67d54ba)
 
 ### **State**
