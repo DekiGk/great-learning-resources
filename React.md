@@ -1,8 +1,10 @@
 ## **General**
 - [Epic React by Kent C. Dodds](https://epicreact.dev/)
+- [Before You memo() by Dan Abramov](https://overreacted.io/before-you-memo/)
 
 ### **Hooks**
 - [React Crash Course with Hooks by Chris Achard](https://egghead.io/courses/react-crash-course-with-hooks-ca06)
+- [A Complete Guide to useEffect by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 ### **Optimization**
 - [React Optimization Cookbook by Tyler Clark](https://egghead.io/courses/react-optimization-cookbook-d67d54ba)
