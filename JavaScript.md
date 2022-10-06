@@ -4,11 +4,21 @@
 ## **Courses**
 - [Just JavaScript by Dan Abramov](https://justjavascript.com/)
 
+## **The JavaScript Engine**
+- [🚀⚙️ JavaScript Visualized: the JavaScript Engine by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+
+## **Scoping**
+- [⚡️⛓JavaScript Visualized: Scope (Chain) by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
+
+## **Hoisting**
+- [🔥🕺🏼 JavaScript Visualized: Hoisting by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
+
 ## **Events**
 - [Your Ultimate Guide to Understanding DOM Events by Alex Reardon](https://egghead.io/courses/your-ultimate-guide-to-understanding-dom-events-6c0c0d23)
 - [JavaScript HTML DOM EventListener by W3C schools](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 - [Event reference by MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [How to Use Event Listeners in JavaScript by Kadeisha Kean](https://www.makeuseof.com/javascript-event-listeners-how-to-use/)
+- [✨♻️ JavaScript Visualized: Event Loop by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ## **Equality**
 - [JavaScript Equality Table by dorey](https://dorey.github.io/JavaScript-Equality-Table/unified/)
