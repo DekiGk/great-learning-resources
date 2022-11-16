@@ -3,6 +3,7 @@
 
 ## **Courses**
 - [Just JavaScript by Dan Abramov](https://justjavascript.com/)
+- [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
 
 ## **The JavaScript Engine**
 - [🚀⚙️ JavaScript Visualized: the JavaScript Engine by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
