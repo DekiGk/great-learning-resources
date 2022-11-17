@@ -7,3 +7,6 @@
 
 ## **NPM**
 - [Best practices for creating a modern npm package by Brian Clark](https://snyk.io/blog/best-practices-create-modern-npm-package/)
+
+## **NestJs**
+- [API with NestJS by Marcin Wanago](https://wanago.io/courses/api-with-nestjs/)
