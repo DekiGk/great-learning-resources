@@ -22,6 +22,9 @@
 - [Exploding Topics](https://explodingtopics.com/)
 - [Answer The Public](https://answerthepublic.com/)
 
+## **Authentication**
+- [Secure React User Authentication with Auth0](https://egghead.io/courses/secure-react-user-authentication-with-auth0-5e17e718)
+
 ## **Code Reviews**
 - [Google Engineering Practices Documentation by Google](https://google.github.io/eng-practices/)
 
