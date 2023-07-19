@@ -14,3 +14,6 @@
 
 ## **React Router**
 - [React Router 6: Private Routes (alias Protected Routes) by Robin Wieruch](https://www.robinwieruch.de/react-router-private-routes/)
+
+## **Next.js**
+- [Fundamental Next.js API and Patterns](https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f)
