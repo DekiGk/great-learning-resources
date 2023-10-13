@@ -7,7 +7,9 @@
 - [A Complete Guide to useEffect by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 ### **Collection of hooks**
-- [React Use by Vadims Daleckis](https://overreacted.io/a-complete-guide-to-useeffect/](https://github.com/streamich/react-use)
+- [React Use by Vadims Daleckis](https://github.com/streamich/react-use/)
+- [Use Hooks by ui.dev team](https://usehooks.com/)
+- [React Hooks by Nik Graf](https://nikgraf.github.io/react-hooks/)
 
 ### **Optimization**
 - [React Optimization Cookbook by Tyler Clark](https://egghead.io/courses/react-optimization-cookbook-d67d54ba)
