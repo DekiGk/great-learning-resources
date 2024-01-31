@@ -7,6 +7,7 @@
 
 ## **The JavaScript Engine**
 - [🚀⚙️ JavaScript Visualized: the JavaScript Engine by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+- [Making Sense Of “Senseless” JavaScript Features  by Juan Diego Rodríguez](https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/)
 
 ## **Scoping**
 - [⚡️⛓JavaScript Visualized: Scope (Chain) by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
@@ -40,6 +41,9 @@
 ## **Promises**
 - [Handling API request race conditions in React by Sébastien Lorber](https://sebastienlorber.com/handling-api-request-race-conditions-in-react)
 - [Race conditions in React and beyond. A race condition guard with TypeScript by Marcin Wanago](https://wanago.io/2020/03/02/race-conditions-in-react-and-beyond-a-race-condition-guard-with-typescript/)
+
+## **Design Patterns**
+- [patterns.dev by Addy Osmani](https://www.patterns.dev/vanilla)
 
 ## **Small projects**
 - [How TO - Mobile Navigation Menu by W3C schools](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)

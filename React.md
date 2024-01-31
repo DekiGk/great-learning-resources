@@ -1,6 +1,7 @@
 ## **General**
 - [Epic React by Kent C. Dodds](https://epicreact.dev/)
 - [Before You memo() by Dan Abramov](https://overreacted.io/before-you-memo/)
+- [Common Beginner Mistakes with React by Josh W. Comeau](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 
 ### **Hooks**
 - [React Crash Course with Hooks by Chris Achard](https://egghead.io/courses/react-crash-course-with-hooks-ca06)
@@ -22,3 +23,6 @@
 
 ## **Next.js**
 - [Fundamental Next.js API and Patterns](https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f)
+
+## **Server Components**
+- [Making Sense of React Server Components by Josh W. Comeau](https://www.joshwcomeau.com/react/server-components/)
