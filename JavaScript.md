@@ -80,6 +80,16 @@
 ## **ES6+**
 - [JavaScript (ES2015+) Enlightenment by Frontend Masters](https://frontendmasters.com/guides/javascript-enlightenment/)
 
+## **AJAX**
+- [What happens when you type google.com in your browser and press Enter by Kennedy Njiraini](https://www.linkedin.com/pulse/what-happens-when-you-type-googlecom-your-browser-press-njiraini/)
+- [AJAX Introduction by W3schools](https://www.w3schools.com/js/js_ajax_intro.asp)
+- [Ajax by MDN](https://developer.mozilla.org/en-US/docs/Glossary/AJAX)
+- [Ajax (programming) by Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+- [Fetching data from the serverby MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+- [Fetch API by MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [AJAX Tutorial: What AJAX Is and How to Use it by Freecodecamp](https://www.freecodecamp.org/news/ajax-tutorial/)
+- [Debug HTTP with Chrome DevTools Network Panel by Mykola Bilokonsky](https://egghead.io/courses/debug-http-with-chrome-devtools-network-panel)
+
 ## **JS learning path**
 - History of JS
 - ECMA Script
