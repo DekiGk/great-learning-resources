@@ -77,6 +77,9 @@
 - [Learn How to Use DOM Selectors by Kadeisha Kean](https://www.makeuseof.com/dom-selectors-how-to-use/)
 - [DOM Selectors in JavaScript by Christopher Ninman](https://dev.to/alternate_robot/dom-selectors-in-javascript-344i)
 
+## **ES6+**
+- [JavaScript (ES2015+) Enlightenment by Frontend Masters](https://frontendmasters.com/guides/javascript-enlightenment/)
+
 ## **JS learning path**
 - History of JS
 - ECMA Script
