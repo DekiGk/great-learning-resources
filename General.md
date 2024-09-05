@@ -3,6 +3,7 @@
 - [Introduction to Programming by Flavio Copes](https://flaviocopes.com/introduction-to-programming)
 - [24 tips for beginner programmers by Flavio Copes](https://flaviocopes.com/tips-beginner-programmers/)
 - [The valley of Code by Flavio Copes](https://thevalleyofcode.com/)
+- [Computer Science Distilled: Learn the Art of Solving Computational Problems by Wladston Ferreira Filho](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 
 ## **Problem solving**
 
