@@ -22,7 +22,11 @@
 ## **React Router**
 - [React Router 6: Private Routes (alias Protected Routes) by Robin Wieruch](https://www.robinwieruch.de/react-router-private-routes/)
 
-## **Next.js**
+## **Full Stack**
+
+- [Fullstack Advanced React & GraphQL by Wes Bos](https://advancedreact.com/)
+
+### **Next.js**
 - [Fundamental Next.js API and Patterns](https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f)
 
 ## **Server Components**
