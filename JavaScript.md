@@ -91,6 +91,9 @@
 - [AJAX Tutorial: What AJAX Is and How to Use it by Freecodecamp](https://www.freecodecamp.org/news/ajax-tutorial/)
 - [Debug HTTP with Chrome DevTools Network Panel by Mykola Bilokonsky](https://egghead.io/courses/debug-http-with-chrome-devtools-network-panel)
 
+## **Generators**
+- [💡🎁 JavaScript Visualized: Generators and Iterators by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
+
 ## **JS learning path**
 - History of JS
 - ECMA Script
