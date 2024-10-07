@@ -114,6 +114,7 @@
 - IIFE
 - Strict mode
 - Prototyping
+   - [🎉👨‍👩‍👧‍👧 JavaScript Visualized: Prototypal Inheritance by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
 - Classes
 - Try/catch error handling
 - Debugging
