@@ -41,6 +41,7 @@
 ## **Promises**
 - [Handling API request race conditions in React by Sébastien Lorber](https://sebastienlorber.com/handling-api-request-race-conditions-in-react)
 - [Race conditions in React and beyond. A race condition guard with TypeScript by Marcin Wanago](https://wanago.io/2020/03/02/race-conditions-in-react-and-beyond-a-race-condition-guard-with-typescript/)
+- [JavaScript Visualized: Promise Execution by Lydia Hallie](https://www.lydiahallie.com/blog/promise-execution)
 
 ## **Design Patterns**
 - [patterns.dev by Addy Osmani](https://www.patterns.dev/vanilla)
