@@ -18,6 +18,9 @@
 ## **CSS Grid**
 - [CssGrid.io by Wes Bos](https://cssgrid.io/)
 
+## **CSS Selectors**
+- [The Undeniable Utility Of CSS :has by Josh W. Comeau](https://www.joshwcomeau.com/css/has/)
+
 ## **CSS Variables (custom properties)**
 - [Using CSS custom properties by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
