@@ -22,6 +22,9 @@
 ## **React Router**
 - [React Router 6: Private Routes (alias Protected Routes) by Robin Wieruch](https://www.robinwieruch.de/react-router-private-routes/)
 
+## **React Query**
+- [Simplify State Management with React Query by Tomasz Ducin](https://egghead.io/courses/simplify-state-management-with-react-query-0d92fbf3)
+
 ## **Full Stack**
 
 - [Fullstack Advanced React & GraphQL by Wes Bos](https://advancedreact.com/)
