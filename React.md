@@ -8,6 +8,9 @@
 - [React Crash Course with Hooks by Chris Achard](https://egghead.io/courses/react-crash-course-with-hooks-ca06)
 - [A Complete Guide to useEffect by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
 
+#### **Data Fetching**
+- [How to fetch data with React Hooks by Robin Wieruch](https://www.robinwieruch.de/react-hooks-fetch-data/)
+
 ### **Collection of hooks**
 - [React Use by Vadims Daleckis](https://github.com/streamich/react-use/)
 - [Use Hooks by ui.dev team](https://usehooks.com/)
