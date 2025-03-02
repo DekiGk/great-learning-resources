@@ -19,6 +19,9 @@
 ### **State**
 - [React Context for State Management by Dave Ceddia](https://egghead.io/courses/react-context-for-state-management)
 
+### **Components**
+- [Types of React Components [2024] by Robin Wieruch](https://www.robinwieruch.de/react-component-types/)
+
 ## **React Router**
 - [React Router 6: Private Routes (alias Protected Routes) by Robin Wieruch](https://www.robinwieruch.de/react-router-private-routes/)
 
