@@ -31,3 +31,6 @@
 
 ## **Onboarding**
 - [How to Onboard Engineers by Luca Rossi](https://refactoring.fm/p/onboarding-engineers?s=r)
+
+## **Big O Notation**
+- [Big O Notation 101: The Secret to Writing Efficient Algorithms by bytebytego](https://blog.bytebytego.com/p/ep132-big-o-notation-101-the-secret#%C2%A7big-o-notation-the-secret-to-writing-efficient-algorithms)
